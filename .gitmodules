@@ -1,0 +1,6 @@
+[submodule "snappy-client"]
+	path = snappy-client
+	url = git@github.com:glitjch/snappy-client.git
+[submodule "snappy-server"]
+	path = snappy-server
+	url = git@github.com:glitjch/snappy-server.git
